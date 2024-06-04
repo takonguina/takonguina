@@ -1,5 +1,7 @@
-## Hey 👋 I'm Tommy
-# Full Stack Web Developer
+# Hey 👋 I'm Tommy
+## Full Stack Web Developer
+
+- 📫 How to reach me: tommy.akonguina@yahoo.fr
 
 <!--
 **takonguina/takonguina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
