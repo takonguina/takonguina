@@ -1,6 +1,8 @@
 # Hey 👋 I'm Tommy
 ## Full Stack Web Developer
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=takonguina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🇫🇷 I'm based in France
 - 📫 How to reach me: tommy.akonguina@yahoo.fr
 - 👨🏾‍💻 I’m currently working on veni-app.com
