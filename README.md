@@ -1,15 +1,16 @@
 <h1 align="center">Hey 👋 I'm Tommy</h1>
 <h3 align="center">Full Stack Web Developer</h2>
-  <div>
+  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=takonguina&style=plastic" alt="Profile Views">
   </div>
-  
+  <br>
 <div>
   <a href="https://github-profile-trophy.vercel.app/?username=takonguina&theme=juicyfresh">
     <img src="https://github-profile-trophy.vercel.app/?username=takonguina&theme=juicyfresh" alt="Trophy">
   </a>
 </div>
 
+<br>
 
 - 🇫🇷 I'm based in France
 - 📫 How to reach me: tommy.akonguina@yahoo.fr
