@@ -6,7 +6,7 @@
   <br>
 <div>
   <a href="https://github-profile-trophy.vercel.app/?username=takonguina&theme=juicyfresh">
-    <img src="https://github-profile-trophy.vercel.app/?username=takonguina&theme=juicyfresh&title=-Issues,-Reviews" alt="Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=takonguina&theme=juicyfresh" alt="Trophy">
   </a>
 </div>
 
