@@ -1,5 +1,6 @@
 # Hey 👋 I'm Tommy
 ## Full Stack Web Developer
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,nodejs,express,git,python)](https://skillicons.dev)
 ![](https://komarev.com/ghpvc/?username=takonguina&style=plastic)
 [![trophy](https://github-profile-trophy.vercel.app/?username=takonguina&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
