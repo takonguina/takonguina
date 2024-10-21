@@ -1,6 +1,6 @@
 # Hey 👋 I'm Tommy
 ## Full Stack Web Developer
-
+![](https://komarev.com/ghpvc/?username=takonguina&style=flat-square)
 [![trophy](https://github-profile-trophy.vercel.app/?username=takonguina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🇫🇷 I'm based in France
