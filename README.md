@@ -15,7 +15,7 @@
 - 🇫🇷 I'm based in France
 - 📫 How to reach me: tommy.akonguina@yahoo.fr
 - 👨🏾‍💻 I’m currently working on [veni-app.com](https://veni-app.com)
-- ⚡ Fun fact: I started entrepreneurship by making t-shirts then rugs
+- ⚡ Fun fact: I started entrepreneurship by making t-shirts
 
 <h3 align="left">Languages and Tools:</h3>
   <div>
