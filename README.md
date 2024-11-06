@@ -13,9 +13,10 @@
 <br>
 
 - 🇫🇷 I'm based in France
+- 🌐 Personal web site : tommyakonguina.com
 - 📫 How to reach me: tommy.akonguina@yahoo.fr
-- 👨🏾‍💻 I’m currently working on [veni-app.com](https://veni-app.com)
 - ⚡ Fun fact: I started entrepreneurship by making t-shirts
+- 👨🏾‍💻 I’m currently working on [veni-app.com](https://veni-app.com)
 
 <h3 align="left">Languages and Tools:</h3>
   <div>
