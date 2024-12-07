@@ -21,6 +21,6 @@
 <h3 align="left">Languages and Tools:</h3>
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,python" alt="My Skills">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,git,python" alt="My Skills">
     </a>
   </div>
