@@ -12,7 +12,7 @@
 
 <br>
 
-- 🇫🇷 I'm based in France
+- 🇫🇷 I'm based in France, Paris.
 - 👨🏾‍💻 I’m currently working on [veni-app.com](https://veni-app.com)
 - 🌐 Personal web site : [tommyakonguina.com](https://tommyakonguina.com)
 - 📫 How to reach me: tommy.akonguina@yahoo.fr
