@@ -13,7 +13,7 @@
 <br>
 
 - 🇫🇷 I'm based in France, Paris
-- 👨🏾‍💻 I’m currently working for Libheros
+- 👨🏾‍💻 Currently working for [Libheros](https://libheros.fr) 🏥  
 - 🌐 Personal web site : [tommyakonguina.com](https://tommyakonguina.com)
 - 📫 How to reach me: tommy.akonguina@yahoo.fr
 - ⚡ Fun fact: I started entrepreneurship by making t-shirts
